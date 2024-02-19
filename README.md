@@ -1,4 +1,5 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome&fontAlign=80&fontAlignY=40&color=gradient&desc=kalu%20GitHub%20Profile&descAlignY=60&descAlign=82&customColorList=26)
+<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome&fontAlign=80&fontAlignY=40&color=gradient&desc=kalu%20GitHub%20Profile&descAlignY=60&descAlign=82&customColorList=26)
+-->
 
 ### 👋 SNS 
 ![mail](https://img.shields.io/badge/kalu--mail@qq.com-D14836)
