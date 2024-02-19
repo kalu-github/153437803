@@ -2,11 +2,8 @@
 
 ### 👋 SNS 
 
-[![Gmail Badge](https://img.shields.io/badge/kalu-mail@qq.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kalu-mail@qq.com)
-<img src="https://img.shields.io/badge/mail-kalu-mail@qq.com-red"/> 
-<!--[![Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logoColor=white)](https://11.222.com)-->
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dtddtd4861">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kalu-github">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kalu-github&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### 📚 Tech Stack
 
@@ -18,5 +15,3 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kalu-github&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
