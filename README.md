@@ -7,4 +7,4 @@
 
 ### 📚 Tech Stack
 ![java](https://img.shields.io/badge/java-blue)
-[![java](https://img.shields.io/badge/vue-green)]
+![vue](https://img.shields.io/badge/vue-green)
