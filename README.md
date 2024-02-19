@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient&desc=Lee-siyoung's%20GitHub%20Profile&descAlignY=60&descAlign=82&customColorList=26)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient&desc=kalu's%20GitHub%20Profile&descAlignY=60&descAlign=82&customColorList=26)
 
 ### 👋 SNS 
 
