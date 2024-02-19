@@ -2,7 +2,7 @@
 
 ### 👋 SNS 
 
-[![QQmail Badge](https://img.shields.io/badge/kalu-mail@qq.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tldud4861@gmail.com)
+[![QQmail Badge](https://img.shields.io/badge/kalu-mail@qq.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kalu-mail@qq.com)
 <!--[![Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logoColor=white)](https://11.222.com)-->
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dtddtd4861">
