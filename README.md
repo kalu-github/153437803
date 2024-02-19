@@ -9,4 +9,4 @@
 ![vue](https://img.shields.io/badge/vue-green)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kalu-github&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" style="float" src="https://github-readme-stats.vercel.app/api?username=kalu-github&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
