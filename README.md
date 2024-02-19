@@ -1,5 +1,3 @@
-## <img align="right" src="https://github-readme-stats.vercel.app/api?username=kalu-github&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient&desc=Lee-siyoung's%20GitHub%20Profile&descAlignY=60&descAlign=82&customColorList=26)
 
 ### 👋 SNS 
@@ -19,5 +17,4 @@
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/>
 
-
-![](https://raw.githubusercontent.com/kalu-github/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kalu-github&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
