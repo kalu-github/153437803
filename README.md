@@ -1,8 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kalu-github&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-### 👋 SNS 
+
+#### 👋 SNS 
 ![mail](https://img.shields.io/badge/kalu--mail@qq.com-D14836)
 
-### 📚 Tech Stack
+#### 📚 Tech Stack
 ![java](https://img.shields.io/badge/java-blue)
 ![vue](https://img.shields.io/badge/vue-green)
 
