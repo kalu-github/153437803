@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=26&text=Welcome&fontAlign=80&fontAlignY=40&desc=kalu-github&descAlignY=60&descAlign=82)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=26&text=Welcome&fontAlign=80&fontAlignY=40&desc=kalu-github&descAlignY=60&descAlign=40)
 <!--
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome&fontAlign=80&fontAlignY=40&color=gradient&desc=kalu%20GitHub%20Profile&descAlignY=60&descAlign=82&customColorList=26)
 -->
